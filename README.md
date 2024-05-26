@@ -1,4 +1,4 @@
-# UIPX II - AquaMonitor
+# UPX II - AquaMonitor
 
 Este repositório inclui os arquivos para a **UPX II**, juntamente com os links para o **Trello** e o **Mapa Mental**, feito no **LucidChart**
 
